@@ -1,4 +1,4 @@
-# Unity
+# LuckDefence
 Unity를 사용하여 만든 Defence 형태의 게임입니다.
 
 사용자의 포탑이 적을 인지하고 조준하는 알고리즘과
